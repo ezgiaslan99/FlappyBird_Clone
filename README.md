@@ -1,2 +1,2 @@
 # FlappyBird_Clone
-108.Mobil Oyun BootcampV 3.hafta ödevi
+Kodluyoruz&Patika.dev 108.Mobil Oyun BootcampV için 3.hafta ödevi
