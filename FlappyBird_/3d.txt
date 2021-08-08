@@ -1,0 +1,9 @@
+PAint3d
+Blender
+krita
+gimp
+photopea(webden kullanılıyor)
+unity resource load
+flappy bird'ü mvc'ye uyarla
+design patterns in c#
+algoritma öğren

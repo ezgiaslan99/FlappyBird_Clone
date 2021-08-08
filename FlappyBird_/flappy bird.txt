@@ -1,0 +1,18 @@
+Rigidbody2D rigi;
+    public float jumping_power;
+    public float slope_velocity;
+
+ rigi = GetComponent<Rigidbody2D>();
+
+if (Input.GetKeyDown(KeyCode.Space));
+        {
+            rigi.velocity = Vector2.zero;
+            rigi.velocity = Vector2.up * jumping_power * Time.deltaTime;
+
+            transform.eulerAngles = new Vector3(transform.eulerAngles.x, transform.eulerAngles.y, 60.0f);
+        }
+
+        else
+        {
+            transform.eulerAngles = new Vector3(transform.eulerAngles.x, transform.eulerAngles.y, slope_velocity);
+        }
